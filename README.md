@@ -8,8 +8,8 @@ The app utilizes Instagram API to upload photos and displays images and basic ph
 
 * [x]	User can **scroll through current popular photos** from Instagram.
 * [x]	User can **see basis photo information**:
-- Photo header with user profile image, user name, location (if any) and elapsed time since photo added to Instagram.
-- Additional photo details: caption (if any), number of likes and latest 2 comments (if any). 
+* Photo header with user profile image, user name, location (if any) and elapsed time since photo added to Instagram.
+* Additional photo details: caption (if any), number of likes and latest 2 comments (if any). 
 * [x]	User can **pull-to-refresh** popular photo list to get the latest popular photos displayed.
 
 The app was tested on HTC One (Android 4.1.2) and on AVDs.
