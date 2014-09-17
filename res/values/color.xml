@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="custom_background_color">#ffffffff</color>
+    <color name="custom_actionbar_color">#ffa62f</color>
+    <color name="custom_actionbar_text_color">#D95443</color>
+    <color name="custom_username_text_color">#D95443</color>
+    <color name="custom_text_color">#000000</color>
+    <color name="custom_photo_header_color">#faebd7</color>
+
+</resources>

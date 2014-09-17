@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Popular Photos</string>
+    <string name="action_settings">Settings</string>
+    <string name="likes_default_text">0 likes</string>
+    <string name="caption_default_text">no caption</string>
+    <string name="comments_default_text">no comments yet</string>
+    <string name="username_default_text">no user name</string>
+    <string name="popular_photo_content_description">popular photo from Instagram</string>
+
+</resources>
