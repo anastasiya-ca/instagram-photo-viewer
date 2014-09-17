@@ -3,8 +3,7 @@ Instagram Photo Viewer - android app
 
 Week 1 Project: Instagram Photo Viewer
 
-Instagram Photo Viewer is a basic android app that allows a user to check out popular photos from Instagram.
-The app utilizes Instagram API to upload photos and displays images and basic photo information to the user. The app includes the following functionality:
+Instagram Photo Viewer is a basic android app that allows a user to check out popular photos from Instagram. The app utilizes Instagram API to upload photos and displays images and basic photo information to the user. The app includes the following functionality:
 
 * [x]	User can **scroll through current popular photos** from Instagram.
 * [x]	User can **see basis photo information**:
@@ -12,7 +11,11 @@ The app utilizes Instagram API to upload photos and displays images and basic ph
 ** Additional photo details: caption (if any), number of likes and latest 2 comments (if any). 
 * [x]	User can **pull-to-refresh** popular photo list to get the latest popular photos displayed.
 
+Time spent: around 15 hours (total for reading, coding, debugging, testing and refactoring)
+
+Notes:
 The app was tested on HTC One (Android 4.1.2) and on AVDs.
+Some time is spent to make the UI work across multiple phone resolutions.
 
 Walkthrough of implemented user stories:
 
